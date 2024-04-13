@@ -1,5 +1,1 @@
-import './async';
-
-document.addEventListener('DOMContentLoaded', function () {
-  document.getElementById('title').innerHTML = 'Big Bob';
-});
+import './index.js';
