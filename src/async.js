@@ -1,3 +1,3 @@
 import { add } from './helpers.js';
-console.log('test');
-console.log('end');
+
+add.li('Hello RxJS');
